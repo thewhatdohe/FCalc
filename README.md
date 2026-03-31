@@ -55,6 +55,8 @@ More features coming soon.
 - Scientific mode
 - Graphing calculator
 - Dark/Light mode switch
+- Fix button naming
+- Optimize numbers (instead of void one void two etc)
 
  
 ---
